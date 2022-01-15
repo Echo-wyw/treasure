@@ -11,7 +11,11 @@ public class wqwqww : MonoBehaviour
     {
         i = GameObject.Find("Image");
         i.SetActive(false);
-
+        i.SetActive(false);
+        i.SetActive(false);
+        i.SetActive(false);
+        i.SetActive(false);
+        
     }
     
     // Update is called once per frame
